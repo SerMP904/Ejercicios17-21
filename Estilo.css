@@ -24,8 +24,20 @@ pintar{
 }
 body{   background-image: none;
 }
+/*ejercicio5*/
+#sobre-el-autor{ 
+    height: 300px;
+    position: center;
+}
 
 section{
     border-style: dotted;
     border-color: black;
 }
+/*ejercicio7*/
+div{
+    background-color:  rgb(240,240,255);
+    color: rgba(0,0,0,0.7);
+}
+
+

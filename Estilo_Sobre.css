@@ -2,9 +2,21 @@ header{
     text-align: center;
     text-transform: uppercase;
 }
+/*Este es el ejercicio 1*/
 body{
-    background-color: slategray;
+    background-color: #f7f7f7;
     text-align: center;
+}
+/*Este es el ejercicio 2y3*/
+h1{
+    color: rgb(110, 52, 110);
+    font-size: 28px;
+
+}
+/*ejercicio6*/
+input[type="text"]{
+    border-color: gray;
+    padding-top: 0ch;
 }
 
 section{border-color: rgb(206, 98, 48);
