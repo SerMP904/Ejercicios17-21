@@ -9,8 +9,16 @@ h1{
     letter-spacing: 1px;
 
 }
+/*Ejercicio18 y 19*/
 header{
     color: rgb(94, 92, 92);
+    border-radius: 12px;
+    border-style: dashed;
+    padding: 8px, 12px;
+    box-shadow: #d6c2c2;
+    text-shadow: #d612c2;
+    margin: 10px, 20px;
+
 }
 .pintar{
     position: relative;
@@ -53,6 +61,11 @@ section{
 }
 footer{
     color: rgb(56, 31, 1);
+}
+.banner{
+    position: fixed;
+    width: 100%;
+    z-index: 400;
 }
 
 
