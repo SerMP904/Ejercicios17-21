@@ -19,11 +19,16 @@ h1{
     
 }
 /*ejercicio6*/
-input[type='text']{
-    border-color: gray;
+input[type='submit']{
+    border-color: rgb(194, 13, 13);
     padding: 40px;
     color: #f7f7f7;
-    
+}
+input[type='submit']:hover{
+    border-color: rgb(13, 13, 194);
+    padding: 45px;
+    color: yellowgreen;
+    cursor: pointer;
 }
 main{
     color: #f7f7f7;
@@ -55,6 +60,10 @@ input[type='button']:hover{
     padding-left: 200px;
     padding-bottom: 152px;
     background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSAEedckDuMGVZaa0FEEBKyaITPWoIHjnyV6kCbjGdZUcxM5My5XTzJKa6pPj_cYzbu1dqanBIat9xkPlOROEMasIMAsG04eE3fyFLu9crOQ);
+    cursor: pointer;
+}
+input[type='file']{
+    padding: 10px;
 }
 
 h5{
@@ -65,3 +74,4 @@ h5{
     padding-bottom: 1000px;
     padding-left: 1000px;
 }
+
