@@ -1,0 +1,21 @@
+h1{ 
+    color: rgb(231, 168, 30);
+    font-size: 24px;
+}
+header{
+    color: rgba(220, 20, 60, 0.514);
+}
+pintar{
+    position: relative;
+    background-color: blueviolet;
+    top: 250px;
+    left: 500px;
+}
+
+.absolute{
+    background-color: red;
+    position: fixed;
+    bottom: 50px;
+    right: 100px;
+
+}
