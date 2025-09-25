@@ -22,3 +22,10 @@ pintar{
     right: 100px;
 
 }
+body{   background-image: none;
+}
+
+section{
+    border-style: dotted;
+    border-color: black;
+}
