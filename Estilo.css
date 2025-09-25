@@ -1,28 +1,38 @@
 nav{   
     text-transform: uppercase;
 }
+/*Ejercicio11*/
 h1{ 
     color: rgb(231, 168, 30);
-    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
 }
 header{
-    color: rgba(220, 20, 60, 0.514);
+    color: gray;
 }
-pintar{
+.pintar{
     position: relative;
-    background-color: rgb(36, 14, 56);
+    background-color: rgba(177, 139, 212, 0.699);
     top: 250px;
     left: 500px;
 }
 
 .absolute{
-    background-color: red;
     position: fixed;
     bottom: 50px;
     right: 100px;
-
+.p{
+    line-height: 1.6;
+    text-align: justify;
 }
-body{   background-color: #333;
+}
+/*Ejercicio10*/
+body{   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #442929;
     color: #fff;
 }
 /*ejercicio5*/
@@ -38,7 +48,7 @@ section{
 /*ejercicio7*/
 .panel{
     background-color:  rgb(240,240,255);
-    color: rgba(0,0,0,0.7);
+    color: rgba(11, 99, 230, 0.7);
 }
 
 
