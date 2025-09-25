@@ -22,7 +22,8 @@ pintar{
     right: 100px;
 
 }
-body{   background-image: none;
+body{   background-color: #333;
+    color: #fff;
 }
 /*ejercicio5*/
 #sobre-el-autor{ 
@@ -35,8 +36,10 @@ section{
     border-color: black;
 }
 /*ejercicio7*/
-div{
+.panel{
     background-color:  rgb(240,240,255);
     color: rgba(0,0,0,0.7);
 }
+
+
 

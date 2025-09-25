@@ -15,6 +15,7 @@ h1{
     padding: 16px;
     color:#f7f7
 }
+
 /*ejercicio6*/
 input[type='text']{
     border-color: gray;
@@ -27,4 +28,13 @@ section{border-color: rgb(206, 98, 48);
     box-shadow: 50px, 50px, 100px, rgba(rgb(124, 66, 66), rgb(97, 139, 97), rgb(62, 62, 90), 0.5);
     text-shadow: 20px, 20px, 50px, yellowgreen;
     margin: 10px, 10px, 10px, 10px,;
+}
+body{
+    color: black;
+}
+
+input[type='button']:hover{
+    padding-left: 250px;
+    padding-bottom: 172px;
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSAEedckDuMGVZaa0FEEBKyaITPWoIHjnyV6kCbjGdZUcxM5My5XTzJKa6pPj_cYzbu1dqanBIat9xkPlOROEMasIMAsG04eE3fyFLu9crOQ);
 }
