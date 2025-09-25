@@ -1,6 +1,20 @@
+nav{   
+    text-transform: uppercase;
+}
+/*Ejercicio11*/
+h1{ 
+    color: rgb(231, 168, 30);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+header{
+    color: rgb(94, 92, 92);
+}
 .pintar{
     position: relative;
-    background-color: rgba(245, 245, 245, 0.699);
+    background-color: rgba(182, 168, 194, 0.699);
     top: 250px;
     left: 500px;
 }
@@ -10,4 +24,35 @@
     bottom: 50px;
     right: 100px;
 }
+.p{
+    line-height: 1.6;
+    text-align: justify;
+}
+
+/*Ejercicio10*/
+body{   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #d6c2c2;
+    color: #380202;
+}
+/*ejercicio5*/
+#sobre-el-autor{ 
+    height: 300px;
+    position: center;
+}
+
+section{
+    border-style: dotted;
+    border-color: black;
+}
+/*ejercicio7*/
+.panel{
+    background-color:  rgb(240,240,255);
+    color: rgba(11, 99, 230, 0.7);
+}
+footer{
+    color: rgb(56, 31, 1);
+}
+
 
