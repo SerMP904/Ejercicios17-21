@@ -10,7 +10,7 @@ header{
 }
 pintar{
     position: relative;
-    background-color: blueviolet;
+    background-color: rgb(36, 14, 56);
     top: 250px;
     left: 500px;
 }
